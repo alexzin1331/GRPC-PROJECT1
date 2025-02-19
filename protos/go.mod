@@ -1,4 +1,4 @@
-module protos_module
+module github.com/alexzin1331/GRPC-PROJECT1/protos
 
 go 1.23.2
 
