@@ -1,4 +1,4 @@
-package grpcapp
+package app
 
 import (
 	"log/slog"
